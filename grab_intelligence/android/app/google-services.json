@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "756371558901",
+    "project_id": "grabintelligence-32f9d",
+    "storage_bucket": "grabintelligence-32f9d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:756371558901:android:fdf6c219588e07d85e10bc",
+        "android_client_info": {
+          "package_name": "com.grab.ai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "756371558901-7lr8nk2m6bcp0pamk4ba94148al927l0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.grab.ai",
+            "certificate_hash": "30f4d47fcbc6b1382522b043d882ce59bd1d2af3"
+          }
+        },
+        {
+          "client_id": "756371558901-f06511q7q9d02jjhn5qrlt7qih6rapur.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6gB5KW1Y5qJIeyXmBeIeKlYYP9eCmAIo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "756371558901-f06511q7q9d02jjhn5qrlt7qih6rapur.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "756371558901-b36oiqdfiucuok72f13e61s3e257jcki.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.grab.ai"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
